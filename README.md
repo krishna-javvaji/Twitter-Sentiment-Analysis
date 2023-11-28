@@ -19,7 +19,7 @@ Usage
 To run the sentiment analysis:
 
 ```bash
-python sentiment_analysis.py
+python twitter.py
 ```
 
 ## Features
