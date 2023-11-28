@@ -9,7 +9,7 @@ This project performs sentiment analysis on tweets obtained via the Twitter API.
 To set up this project locally, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/twitter-sentiment-analysis
+git clone https://github.com/krishna-javvaji/twitter-sentiment-analysis
 cd twitter-sentiment-analysis
 pip install -r requirements.txt
 ```
