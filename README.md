@@ -60,5 +60,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 The project is currently in a beta stage and open for improvements and contributions.
 
 ## Contact
-Your Name - kjavvaji@uncc.edu, hemanth.y.vjws6@gmail.com
+My Mail - kjavvaji@uncc.edu, hemanth.y.vjws6@gmail.com
 Project Link: https://github.com/yourusername/twitter-sentiment-analysis
